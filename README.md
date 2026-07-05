@@ -1,0 +1,2 @@
+# royalshores
+Static site: royalshores
