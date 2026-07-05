@@ -1,0 +1,4 @@
+Contact: mailto:security@royalshores.example
+Expires: 2027-07-05T19:29:56.652Z
+Preferred-Languages: en, de, fr
+Canonical: https://royalshores.onrender.com/.well-known/security.txt
